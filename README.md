@@ -5,7 +5,7 @@
 
 ## Info about my portfolio
 This is the source code for my professional portfolio website hosted on [GitHub Pages](https://pages.github.com/). The website showcases my skills, projects, and provides a way for visitors to contact me.
-You can see the live website in action at [jhunrayomiping.com](https://jhunray.github.io/Portfolio/index.html). <br>
+You can see the live website in action at [https://jhunrayomiping.com](https://jhunray.github.io/Portfolio/index.html). <br>
 <!---
 -------------
 --->
