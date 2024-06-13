@@ -37,7 +37,10 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qw87rt)](https://github.com/qw87rt/github-readme-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=qw87rt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 <!---
 -------------
