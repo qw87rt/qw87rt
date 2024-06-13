@@ -36,9 +36,7 @@
 [![Hostinger](https://img.shields.io/badge/Hostinger-1FB4F5?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
 
 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qw87rt)](https://github.com/qw87rt/github-readme-stats)
-
+## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 ![](https://github-profile-trophy.vercel.app/?username=qw87rt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
