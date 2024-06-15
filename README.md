@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jhun Ray Omiping
 - 👀 I'm interested in all sorts of stuff the world has to offer & I love learning about new things and exploring different perspectives on the world.
-- 🌱 I'm currently learning software development, statistics, and analytics. I'm excited about the endless possibilities that technology offers and the ways it can be used to make a positive impact on the world. 
+- 🌱 I'm currently honing my expertise software development, statistics, and analytics. I'm excited about the endless possibilities that technology offers and the ways it can be used to make a positive impact on the world. 
      I'm always looking for new challenges and opportunities to expand my knowledge and skills in these areas.
 
 - 📫 Reach out to me by sending an email to jhunrayomiping@gmail.com.
